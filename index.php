@@ -1,5 +1,5 @@
 <html>
-<head><h1>Resume</h1></head>
+<head><h1>Selamat Datang ke Bengkel Git</h1></head>
     <body>
         <ul>
             <li>Mohamad Shafiq Bin Aziz</li>
